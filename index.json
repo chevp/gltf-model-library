@@ -1,0 +1,22 @@
+{
+  "models": [
+    {
+      "id": "podium1",
+      "name": "Podium 1",
+      "description": "A high-quality 3D model of a podium.",
+      "path": "gltf-models/podium1/podium1.gltf",
+      "bin": "gltf-models/podium1/podium1.bin"
+    },
+    {
+      "id": "model2",
+      "name": "Model 2",
+      "description": "A detailed 3D model of a building.",
+      "path": "gltf-models/model2/model2.gltf",
+      "textures": {
+        "albedo": "gltf-models/model2/textures/albedo.png",
+        "normal": "gltf-models/model2/textures/normal.png",
+        "roughness": "gltf-models/model2/textures/roughness.png"
+      }
+    }
+  ]
+}
