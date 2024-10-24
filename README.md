@@ -54,11 +54,3 @@ loader.load('path/to/model.gltf', function(gltf) {
   console.error('An error occurred loading the model:', error);
 });
 ```
-
-## Contributions
-
-We welcome contributions! If you want to add a model to the library or improve an existing model, please follow the contribution guidelines in `CONTRIBUTING.md`.
-
-## License
-
-All models in this repository are licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/), unless otherwise stated.
